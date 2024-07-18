@@ -1,1 +1,1 @@
-web: gunicorn vercel_example.wsgi --log-file - 
+web: gunicorn vercel_app.wsgi --log-file - 
